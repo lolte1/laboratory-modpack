@@ -1,0 +1,13 @@
+name = "LABORATORY"
+author = "LABORATORY"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index-laba.toml"
+hash-format = "sha256"
+hash = "4e9873a790494badf24e4421d65f9e126bf991efef3deea6bac006b38be0e4f4"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"
