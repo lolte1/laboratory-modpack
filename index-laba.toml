@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "f09cbdcb96160fbf7742f47ec2aad33144c840242d3da58bf97d3f4b238cfb06"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5cdef1d5f9280bd788ba8381aac78b10f9bf609e6b107ff3100e6929c4beaaa8"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "7768c7d042a3e545547892f9416b28401c3caed5827bb17687576de2dd4e0d35"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0f6ef76068ccf1e3607722151921861e27783c6951b2e7a724eccce3951d6447"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9c0fd576ed7814ef5c5ade0fd8b3da8eab2c29fe7fca5185d457ec06e765b229"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cf6886aef279559ff8fd353d42ab99db77dd94949960ddbcba0531fd1391d594"
+metafile = true
+
+[[files]]
+file = "mods/laboratory.pw.toml"
+hash = "5ec93c250d99b47a3a3cbe2e90683465687489bf44530e1f8271c6d1f5071aa4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f2b1e5e03c75404e88144da6bc7552ecd85a198ff40b5da89f8253578d09e6b6"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "53abb7907a660d45b6f051764e0ff37d9cca684f371849e26041545bf15376e6"
+metafile = true
+
+[[files]]
+file = "mods/superb-warfare-refabricated.pw.toml"
+hash = "20296f99b79567e01b176f80481b7bf5466fd36ff7752c3f9777df8799476ac0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "a4958d552328f14d5742470e1154f0b2f5d4fbefecf29050b252dd4061a4bb0b"
+metafile = true
+
+[[files]]
+file = "mods/tacz-refabricated.pw.toml"
+hash = "8fbde7e5e3716b3740fd7ed1bc5789d39c63ac94beca4f99d1e8eec21f1f751a"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
+metafile = true
