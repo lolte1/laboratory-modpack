@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/arma-minigame.pw.toml"
-hash = "40d58df0cc19a1203167ef94c4120d9dd9cfe708e3478afaa6e2d20401c7e279"
+hash = "7f2233f6860c518b46fa72a1b8745ea9f7de23a92c2fb7bc86cdba9f68799fed"
 metafile = true
 
 [[files]]
