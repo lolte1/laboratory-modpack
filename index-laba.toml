@@ -84,3 +84,13 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
+
+[[files]]
+file = "mods/chisels-and-bits.pw.toml"
+hash = "d54a2eafa332e89b55af39b0bb4ce9dbbccb518560ab8f343b4223748e7219fd"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "8311ceecf046bb70b1ed83b297c268d2084fcb256ff6dd111f20308b2e780727"
+metafile = true
