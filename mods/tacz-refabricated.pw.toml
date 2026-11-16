@@ -1,0 +1,13 @@
+name = "TACZ Refabricated"
+filename = "TACZ-Refabricated-1.21.1-0.7.1-forge1.1.8-hotfix2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1j76DVHU/versions/veM4XOhW/TACZ-Refabricated-1.21.1-0.7.1-forge1.1.8-hotfix2.jar"
+hash-format = "sha512"
+hash = "f3ef350f67cd251af59c6b27e4ca3349f8840d763e13b6f2662dea868428fa9ba17b29c2e8e2d56f991055e41b04ad61b51bc63b968331a03f37baf5a63278fd"
+
+[update]
+[update.modrinth]
+mod-id = "1j76DVHU"
+version = "veM4XOhW"
