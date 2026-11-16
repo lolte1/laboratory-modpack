@@ -1,0 +1,8 @@
+name = "ARMA: Война за село"
+filename = "arma-minigame-4.5.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/lolte1/laboratory-modpack/releases/download/files/arma-minigame-4.5.0.jar"
+hash-format = "sha512"
+hash = "74bcc2d5a42f405e91be910a903aa91308b909f89f0e69bf102b5abd30959b005ffbb51964948bf5072c54061c9e4ca3003f77a1a062fcbfe186eb6b28cda80c"
