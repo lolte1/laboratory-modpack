@@ -1,0 +1,13 @@
+name = "ARMA"
+author = "LABORATORY"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index-arma.toml"
+hash-format = "sha256"
+hash = "4fe5a590f803772304cf4957cc1b2c6d40749e13e4b03274a462f2700e3777f6"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"
