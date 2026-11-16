@@ -1,0 +1,8 @@
+name = "Chisels & Bits"
+filename = "chisels-and-bits-fabric-21.1.33.jar"
+side = "both"
+
+[download]
+url = "https://github.com/lolte1/laboratory-modpack/releases/download/files/chisels-and-bits-fabric-21.1.33.jar"
+hash-format = "sha512"
+hash = "2cc3c094f7137480721d79dbd808a1179a89a5b98056b0d258e7707215adee9a4e024d169ac03dde72ef702124061771bb893b2c0adc1ad3f70e3e08f5f60211"
