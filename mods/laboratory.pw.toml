@@ -1,0 +1,8 @@
+name = "LABORATORY"
+filename = "laboratory-3.14.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/lolte1/laboratory-modpack/releases/download/files/laboratory-3.14.0.jar"
+hash-format = "sha512"
+hash = "14076192c3a3007074c0335c5456cefef7226b02caedf97d34f3ea58e53bfdcd3a19c35ba6f0ac99b50c2bec6cf206f29d8e04c902f9982a4652003dc21d5e8a"
